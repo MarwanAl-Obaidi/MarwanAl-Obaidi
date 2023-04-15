@@ -1,5 +1,7 @@
 ### Welcome to my Profile
 
+#### Im 24 years old, currently studying in Metropolia UAS and mainly interested in Web and Game Development.
+
 Current projects & courses I am taking:
 
 - [3D Modelling and mixed reality applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)
@@ -10,7 +12,7 @@ Web development projects & courses I have done:
 
 - [Flight Tracker](https://github.com/MarwanAl-Obaidi/Flight-Tracker)
 - [Full Stack Web Development](https://github.com/MarwanAl-Obaidi/Full-Stack-Web-Development)
-- [Current-Weather-App](https://github.com/MarwanAl-Obaidi/Current-Weather-App)
+- [Current Weather App](https://github.com/MarwanAl-Obaidi/Current-Weather-App)
 
 Game development projects & courses I have done:
 
