@@ -5,14 +5,15 @@
 Current projects & courses I am taking:
 
 - [3D Modelling and mixed reality applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)
-- [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
 - [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
+- [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
 
 Web development projects & courses I have done:
 
 - [Flight Tracker](https://github.com/MarwanAl-Obaidi/Flight-Tracker)
 - [Full Stack Web Development](https://github.com/MarwanAl-Obaidi/Full-Stack-Web-Development)
 - [Current Weather App](https://github.com/MarwanAl-Obaidi/Current-Weather-App)
+- [Guestbook App](https://github.com/MarwanAl-Obaidi/Guestbook-App)
 
 Game development projects & courses I have done:
 
