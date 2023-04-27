@@ -7,6 +7,7 @@ Current projects & courses I am taking:
 - [3D Modelling and mixed reality applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)
 - [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
 - [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
+- [Slot Machine](https://github.com/MarwanAl-Obaidi/Slot-Machine)
 
 Web development projects & courses I have done:
 
