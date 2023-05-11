@@ -8,6 +8,7 @@ Current projects & courses I am taking:
 - [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
 - [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
 - [Slot Machine](https://github.com/MarwanAl-Obaidi/Slot-Machine)
+- [FFXIV-Lodestone-Search](https://github.com/MarwanAl-Obaidi/FFXIV-Lodestone-Search)
 
 Web development projects & courses I have done:
 
