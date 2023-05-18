@@ -4,9 +4,6 @@
 
 Current projects & courses I am taking:
 
-- [3D Modelling and mixed reality applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)
-- [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
-- [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
 - [Slot Machine](https://github.com/MarwanAl-Obaidi/Slot-Machine)
 - [FFXIV Lodestone Search](https://github.com/MarwanAl-Obaidi/FFXIV-Lodestone-Search)
 
@@ -17,9 +14,12 @@ Web development projects & courses I have done:
 - [Current Weather App](https://github.com/MarwanAl-Obaidi/Current-Weather-App)
 - [Marwan API](https://github.com/MarwanAl-Obaidi/Marwan-API)
 - [Guestbook App](https://github.com/MarwanAl-Obaidi/Guestbook-App)
+- [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
 
-Game development projects & courses I have done:
+Game development and 3D modelling projects & courses I have done:
 
+- [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
+- [3D Modelling and mixed reality applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)
 - [Game Engines](https://github.com/MarwanAl-Obaidi/Game-Engines)
 - [Game Design](https://github.com/MarwanAl-Obaidi/Game-Design)
 
