@@ -4,6 +4,7 @@
 
 Current projects & courses I am taking:
 
+- [Cloud Engineer Learning Path](https://github.com/MarwanAl-Obaidi/Cloud-Engineer-Learning-Path)
 - [Slot Machine](https://github.com/MarwanAl-Obaidi/Slot-Machine)
 - [FFXIV Lodestone Search](https://github.com/MarwanAl-Obaidi/FFXIV-Lodestone-Search)
 
