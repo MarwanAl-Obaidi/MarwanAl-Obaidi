@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-
 #### Im 24 years old, currently studying in Metropolia UAS and mainly interested in Web and Game Development.
 
 Current projects & courses I am taking:
