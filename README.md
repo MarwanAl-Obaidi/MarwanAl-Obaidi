@@ -3,7 +3,7 @@
 Current projects & courses I am taking:
 
 - [YourTutor](https://www.linkedin.com/feed/update/urn:li:activity:7075422003951804417/)
-- [Google Cloud Engineer Learning Path](https://github.com/MarwanAl-Obaidi/Google-Cloud-Engineer-Learning-Path)
+- [Google Generative AI Learning Path](https://github.com/MarwanAl-Obaidi/Google-Generative-AI-Learning-Path)
 - [Slot Machine](https://github.com/MarwanAl-Obaidi/Slot-Machine)
 - [FFXIV Lodestone Search](https://github.com/MarwanAl-Obaidi/FFXIV-Lodestone-Search)
 
