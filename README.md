@@ -1,13 +1,13 @@
 #### Im 24 years old, currently studying in Metropolia UAS and mainly interested in Web and Game Development.
 
-Current projects & courses I am taking:
+Current projects I am working on:
 
 - Unannounced Thesis Project
-- [FFXIV Lodestone Search](https://github.com/MarwanAl-Obaidi/FFXIV-Lodestone-Search)
 
 Web development projects & courses I have done:
 
 - [YourTutor](https://www.linkedin.com/feed/update/urn:li:activity:7075422003951804417/)
+- [BOND](https://www.linkedin.com/feed/update/urn:li:activity:7088478788405096448/)
 - [Google Generative AI Learning Path](https://github.com/MarwanAl-Obaidi/Google-Generative-AI-Learning-Path)
 - [Flight Tracker](https://github.com/MarwanAl-Obaidi/Flight-Tracker)
 - [Full Stack Web Development](https://github.com/MarwanAl-Obaidi/Full-Stack-Web-Development)
