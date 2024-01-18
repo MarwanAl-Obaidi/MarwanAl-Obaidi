@@ -1,8 +1,9 @@
-#### Im 24 years old, currently studying in Metropolia UAS and mainly interested in Web and Game Development.
+#### Im 25 years old, currently studying in Metropolia UAS and mainly interested in Web and Game Development.
 
 Current projects I am working on:
 
 - Unannounced Thesis Project
+- [Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)
 
 Web development projects & courses I have done:
 
