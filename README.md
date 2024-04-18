@@ -17,10 +17,11 @@ Web development projects & courses I have done:
 - [Guestbook App](https://github.com/MarwanAl-Obaidi/Guestbook-App)
 - [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
 
-Game development and 3D modelling projects & courses I have done:
+Game development, 3D modelling and VR projects & courses I have done:
 
 - [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
 - [3D Modelling and mixed reality applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)
+- [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
 - [Game Engines](https://github.com/MarwanAl-Obaidi/Game-Engines)
 - [Game Design](https://github.com/MarwanAl-Obaidi/Game-Design)
 
