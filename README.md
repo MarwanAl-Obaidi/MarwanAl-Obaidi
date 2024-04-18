@@ -3,7 +3,6 @@
 Current projects I am working on:
 
 - Unannounced Thesis Project
-- [Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)
 
 Web development projects & courses I have done:
 
@@ -16,12 +15,14 @@ Web development projects & courses I have done:
 - [Marwan API](https://github.com/MarwanAl-Obaidi/Marwan-API)
 - [Guestbook App](https://github.com/MarwanAl-Obaidi/Guestbook-App)
 - [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
+- [Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)
 
 Game development, 3D modelling and VR projects & courses I have done:
 
 - [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
 - [3D Modelling and mixed reality applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)
 - [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
+- [Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)
 - [Game Engines](https://github.com/MarwanAl-Obaidi/Game-Engines)
 - [Game Design](https://github.com/MarwanAl-Obaidi/Game-Design)
 
