@@ -1,8 +1,8 @@
-#### Im 25 years old, currently studying in Metropolia UAS and mainly interested in Web and Game Development.
+#### Im 25 years old, soon to be graduating from Metropolia UAS and mainly interested in Web and Game Development.
 
-Current projects I am working on:
+My thesis:
 
-- Unannounced Thesis Project
+- [Building a cross-platform application using AI tools](https://www.theseus.fi/handle/10024/857058)
 
 Web development projects & courses I have done:
 
