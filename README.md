@@ -1,4 +1,4 @@
-#### Im 25 years old, soon to be graduating from Metropolia UAS and mainly interested in Web and Game Development.
+#### Im a 25 year old, recent graduate from Metropolia UAS and mainly interested in Web and Game Development.
 
 My thesis:
 
