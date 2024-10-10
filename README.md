@@ -1,30 +1,33 @@
-#### Im a 25 year old, recent graduate from Metropolia UAS and mainly interested in Web and Game Development.
+# Marwan Al-Obaidi
 
-My thesis:
+## 👋 About Me
+I am a 25-year-old recent graduate from **Metropolia University of Applied Sciences** with a strong interest in **Web Development** and **Game Development**. My expertise includes building cross-platform applications, integrating AI tools, and creating interactive 3D environments. I am passionate about exploring new technologies and applying them in real-world scenarios.
 
-- [Building a cross-platform application using AI tools](https://www.theseus.fi/handle/10024/857058)
+## 🎓 Education
+- **Bachelor of Engineering in Information Technology**  
+  Metropolia University of Applied Sciences, Finland  
 
-Web development projects & courses I have done:
+- **Thesis**: [Building a cross-platform application using AI tools](https://www.theseus.fi/handle/10024/857058)
 
-- [YourTutor](https://www.linkedin.com/feed/update/urn:li:activity:7075422003951804417/)
-- [BOND](https://www.linkedin.com/feed/update/urn:li:activity:7088478788405096448/)
-- [Google Generative AI Learning Path](https://github.com/MarwanAl-Obaidi/Google-Generative-AI-Learning-Path)
-- [Flight Tracker](https://github.com/MarwanAl-Obaidi/Flight-Tracker)
-- [Full Stack Web Development](https://github.com/MarwanAl-Obaidi/Full-Stack-Web-Development)
-- [Current Weather App](https://github.com/MarwanAl-Obaidi/Current-Weather-App)
-- [Marwan API](https://github.com/MarwanAl-Obaidi/Marwan-API)
-- [Guestbook App](https://github.com/MarwanAl-Obaidi/Guestbook-App)
-- [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
-- [Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)
+## 💻 Web Development Projects
+Here are some of the notable web development projects and courses I have completed:
 
-Game development, 3D modelling and VR projects & courses I have done:
+- **[YourTutor](https://www.linkedin.com/feed/update/urn:li:activity:7075422003951804417/)**: A platform that connects students with qualified tutors.
+- **[BOND](https://www.linkedin.com/feed/update/urn:li:activity:7088478788405096448/)**: A social networking application focused on creating meaningful connections.
+- **[Google Generative AI Learning Path](https://github.com/MarwanAl-Obaidi/Google-Generative-AI-Learning-Path)**: Completed learning path for leveraging Google’s generative AI tools in web development.
+- **[Flight Tracker](https://github.com/MarwanAl-Obaidi/Flight-Tracker)**: A flight tracking application using real-time data.
+- **[Full Stack Web Development](https://github.com/MarwanAl-Obaidi/Full-Stack-Web-Development)**: Comprehensive course and projects covering MERN stack development.
+- **[Current Weather App](https://github.com/MarwanAl-Obaidi/Current-Weather-App)**: A weather application built using React and external APIs.
+- **[Marwan API](https://github.com/MarwanAl-Obaidi/Marwan-API)**: A personal API project to showcase my backend development skills.
+- **[Guestbook App](https://github.com/MarwanAl-Obaidi/Guestbook-App)**: An interactive guestbook application built using Node.js and MongoDB.
+- **[Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)**: Showcases a 3D environment created using Blender.
+- **[Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)**: A project to demonstrate award nomination and tracking system using modern web technologies.
 
-- [VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)
-- [3D Modelling and mixed reality applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)
-- [Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)
-- [Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)
-- [Game Engines](https://github.com/MarwanAl-Obaidi/Game-Engines)
-- [Game Design](https://github.com/MarwanAl-Obaidi/Game-Design)
+## 🎮 Game Development & 3D Modelling
+In addition to web development, I have also worked on several game development and 3D modelling projects:
 
-<h3 align="left">Most used languages and tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- **[VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)**: A virtual reality zoo simulation built using Unity3D.
+- **[3D Modelling and Mixed Reality Applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)**: A series of projects exploring 3D modelling and XR applications.
+- **[Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)**: Created an interactive 3D environment using Blender and GLTF.
+- **[Game Engines](https://github.com/MarwanAl-Obaidi/Game-Engines)**: Projects demonstrating proficiency in various game engines like Unity and Unreal Engine.
+- **[Game Design](https://github.com/MarwanAl-Obaidi/Game-Design)**: A collection of design patterns and mechanics explored in game development.
