@@ -21,13 +21,13 @@ Here are some of the notable web development projects and courses I have complet
 - **[Marwan API](https://github.com/MarwanAl-Obaidi/Marwan-API)**: A personal API project to showcase my backend development skills.
 - **[Guestbook App](https://github.com/MarwanAl-Obaidi/Guestbook-App)**: An interactive guestbook application built using Node.js and MongoDB.
 - **[Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)**: Showcases a 3D environment created using Blender.
-- **[Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)**: A project to demonstrate award nomination and tracking system using modern web technologies.
+- **[Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)**: A project to demonstrate award nomination using modern web technologies.
 
 ## 🎮 Game Development & 3D Modelling
 In addition to web development, I have also worked on several game development and 3D modelling projects:
 
 - **[VR Zoo](https://github.com/DanielRadvanyi/VR-Zoo)**: A virtual reality zoo simulation built using Unity3D.
-- **[3D Modelling and Mixed Reality Applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)**: A series of projects exploring 3D modelling and XR applications.
+- **[3D Modelling and Mixed Reality Applications](https://github.com/MarwanAl-Obaidi/3D-Modelling-and-mixed-reality-applications)**: A course that has a series of projects exploring 3D modelling and XR applications.
 - **[Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)**: Created an interactive 3D environment using Blender and GLTF.
-- **[Game Engines](https://github.com/MarwanAl-Obaidi/Game-Engines)**: Projects demonstrating proficiency in various game engines like Unity and Unreal Engine.
-- **[Game Design](https://github.com/MarwanAl-Obaidi/Game-Design)**: A collection of design patterns and mechanics explored in game development.
+- **[Game Engines](https://github.com/MarwanAl-Obaidi/Game-Engines)**: A course that focuses on the use of game engines.
+- **[Game Design](https://github.com/MarwanAl-Obaidi/Game-Design)**: A course I did that takes a look at the process of game design and development.
