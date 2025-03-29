@@ -1,7 +1,7 @@
 # Marwan Al-Obaidi
 
 ## 👋 About Me
-I am a 26-year-old recent graduate from **Metropolia University of Applied Sciences** with a strong interest in **Web Development** and **Game Development**. My expertise includes building web/mobile applications, integrating AI tools, and creating interactive 3D environments. I am passionate about exploring new technologies and applying them in real-world scenarios.
+I am a 26-year-old recent graduate from **Metropolia University of Applied Sciences** with a strong interest in **Web Development** and **Game Development**. My expertise includes building web/mobile applications, integrating AI tools, and creating interactive 3D games and environments. I am passionate about exploring new technologies and applying them in real-world scenarios.
 
 ## 🎓 Education
 - **Bachelor of Engineering in Information Technology**  
