@@ -14,14 +14,12 @@ Here are some of the notable web development projects and courses I have complet
 
 - **[YourTutor](https://www.linkedin.com/feed/update/urn:li:activity:7075422003951804417/)**: A platform that connects students with qualified tutors.
 - **[BOND](https://www.linkedin.com/feed/update/urn:li:activity:7088478788405096448/)**: A social networking application focused on creating meaningful connections.
-- **[Google Generative AI Learning Path](https://github.com/MarwanAl-Obaidi/Google-Generative-AI-Learning-Path)**: Completed learning path for leveraging Google’s generative AI tools in web development.
 - **[Flight Tracker](https://github.com/MarwanAl-Obaidi/Flight-Tracker)**: A flight tracking application using real-time data.
 - **[Full Stack Web Development](https://github.com/MarwanAl-Obaidi/Full-Stack-Web-Development)**: Comprehensive course and projects covering MERN stack development.
-- **[Current Weather App](https://github.com/MarwanAl-Obaidi/Current-Weather-App)**: A weather application built using React and external APIs.
 - **[Marwan API](https://github.com/MarwanAl-Obaidi/Marwan-API)**: A personal API project to showcase my backend development skills.
 - **[Guestbook App](https://github.com/MarwanAl-Obaidi/Guestbook-App)**: An interactive guestbook application built using Node.js and MongoDB.
 - **[Blender World GLTF HDR Demo](https://github.com/MarwanAl-Obaidi/Blender-World-GLTF-HDR-Demo)**: Showcases a 3D environment created using Blender.
-- **[Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)**: A project to demonstrate award nomination using modern web technologies.
+- **[Marwan Awards](https://github.com/MarwanAl-Obaidi/Marwan-Awards)**: A project to showcase 3D awards using modern web technologies such as Three.js.
 
 ## 🎮 Game Development & 3D Modelling
 In addition to web development, I have also worked on several game development and 3D modelling projects:
